@@ -1,0 +1,5 @@
+twilio==6.60.0  
+APScheduler==3.7.0
+bs4==0.0.1
+parse==1.19.0
+lxml==4.8.0
